@@ -89,42 +89,34 @@ p
     transition: 0.2s;
 }
 
+input
+{
+    width: 250px;
+}
 
+.Time
+{
+    text-align: left;
+    text-shadow: none;
+}
 
+ul
+{
+    padding-right: 40px;
+}
 
+.play,
+.back,
+.for{
+    border-color: #ffffff;
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.back
+.for
+.play while mouseover -> {
+    border-color: #bebebe;
+}
 
