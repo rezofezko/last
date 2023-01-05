@@ -1,3 +1,15 @@
+*{
+    margin: 0px;
+}
+
+html{
+    height: 100%;
+}
+
+body
+{
+    background-image: linear-gradient( #0046ae, #9198e5);
+}
 
 
 
@@ -19,35 +31,23 @@
 
 
 
+.master
+{
+    padding: 5px;
+    text-align: center;
+    margin: auto;
+    margin-top: 100px;
+    background-image: linear-gradient(rgba(171, 179, 192, 0.694), rgba(220, 234, 248, 0.674));
+    height: 400px;
+    width: 270px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 8px #2e2e2e;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.master:hover
+{
+    background-image: linear-gradient(rgba(171, 179, 192, 0.796), rgba(220, 234, 248, 0.792));  
+}
 
 img
 {
@@ -63,3 +63,31 @@ img:hover
     box-shadow: 2px 2px 8px #2e2e2e;
     transition: 0.4s;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
