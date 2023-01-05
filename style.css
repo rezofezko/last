@@ -74,13 +74,18 @@ p
     transition: 0.2s;
 }
 
+li
+{
+    display: inline-block;
+    margin-top: 15px;
+    margin-left: 10px;
+    
 button
 {
     border: :#ffffff;
     width: 45px;
     height: 45px;
     border-radius: 50%;
-    padding-right: 40px;
 }
 button:hover
 {
